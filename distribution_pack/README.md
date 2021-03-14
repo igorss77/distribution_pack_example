@@ -1,17 +1,17 @@
-# distributionpack - package
+# Distribution-pack 
 
 The package was build to calculate binomial and gaussian distributions.
 This is an exercise for udacity data scientist nanodegree.
 
 # Files
 
-Binomialdistribution.py - Binomial distribution class for calculating and visualizing a Binomial distribution.
-Gaussiandistribution.py - Gaussian distribution class for calculating and visualizing a Gaussian distribution.
-Generaldistribution.py -  Generic distribution class for calculating and visualizing a probability distribution.
+`Binomialdistribution.py` - Binomial distribution class for calculating and visualizing a Binomial distribution.
+`Gaussiandistribution.py` - Gaussian distribution class for calculating and visualizing a Gaussian distribution.
+`Generaldistribution.py` -  Generic distribution class for calculating and visualizing a probability distribution.
 
 # Installation
 
-pip install intro-distributions
+`pip install distribution-pack`
 
 # Requirements
 
