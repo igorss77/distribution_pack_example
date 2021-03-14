@@ -5,8 +5,8 @@ This is an exercise for udacity data scientist nanodegree.
 
 # Files
 
-`Binomialdistribution.py` - Binomial distribution class for calculating and visualizing a Binomial distribution.
-`Gaussiandistribution.py` - Gaussian distribution class for calculating and visualizing a Gaussian distribution.
+`Binomialdistribution.py` - Binomial distribution class for calculating and visualizing a Binomial distribution.\
+`Gaussiandistribution.py` - Gaussian distribution class for calculating and visualizing a Gaussian distribution.\
 `Generaldistribution.py` -  Generic distribution class for calculating and visualizing a probability distribution.
 
 # Installation
@@ -15,9 +15,9 @@ This is an exercise for udacity data scientist nanodegree.
 
 # Requirements
 
-seaborn==0.11.0
-plotly==4.14.1
-pandas==1.1.3
-numpy==1.19.2
+seaborn==0.11.0\
+plotly==4.14.1\
+pandas==1.1.3\
+numpy==1.19.2\
 matplotlib==3.3.2
 
