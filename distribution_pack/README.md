@@ -1,4 +1,4 @@
-# Distribution-pack 
+# Distribution Pack 
 
 The package was build to calculate binomial and gaussian distributions.
 This is an exercise for udacity data scientist nanodegree.
